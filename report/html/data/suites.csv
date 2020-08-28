@@ -1,0 +1,6 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Aug 27 17:18:31 CST 2020","Thu Aug 27 17:18:31 CST 2020","0","case.mp","test_begin","TestBegin","","","test_begin",""
+"passed","Thu Aug 27 17:18:39 CST 2020","Thu Aug 27 17:18:40 CST 2020","1734","case.mp","test_mp_login","TestMpLogin","","","test_mp_login",""
+"passed","Thu Aug 27 17:18:52 CST 2020","Thu Aug 27 17:18:58 CST 2020","5671","case.mp","test_mp_pub","TestMpLogin","","","test_mp_pub[zy小测试{}-小测试123456-人工智能-新增文章成功]",""
+"passed","Thu Aug 27 17:18:41 CST 2020","Thu Aug 27 17:18:52 CST 2020","11026","case.mp","test_mp_pub","TestMpLogin","","","test_mp_pub[zy小测试{}-小测试123456-软件测试-新增文章成功]",""
+"passed","Thu Aug 27 17:18:58 CST 2020","Thu Aug 27 17:19:04 CST 2020","6313","case.mp","test_end","TestBegin","","","test_begin",""

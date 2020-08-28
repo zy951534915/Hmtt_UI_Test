@@ -1,0 +1,51 @@
+[ {
+  "uid" : "edbd4b86104d4129",
+  "name" : "test_begin",
+  "time" : {
+    "start" : 1598519911896,
+    "stop" : 1598519911896,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6eaabbc72642e018",
+  "name" : "test_mp_login",
+  "time" : {
+    "start" : 1598519919161,
+    "stop" : 1598519920895,
+    "duration" : 1734
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fc97884555c04c3a",
+  "name" : "test_mp_pub[zy小测试{}-小测试123456-人工智能-新增文章成功]",
+  "time" : {
+    "start" : 1598519932967,
+    "stop" : 1598519938638,
+    "duration" : 5671
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "12dfa42a94f75aef",
+  "name" : "test_mp_pub[zy小测试{}-小测试123456-软件测试-新增文章成功]",
+  "time" : {
+    "start" : 1598519921401,
+    "stop" : 1598519932427,
+    "duration" : 11026
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c250a473d776564b",
+  "name" : "test_begin",
+  "time" : {
+    "start" : 1598519938670,
+    "stop" : 1598519944983,
+    "duration" : 6313
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

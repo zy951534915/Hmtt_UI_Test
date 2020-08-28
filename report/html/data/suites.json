@@ -1,0 +1,106 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "case.mp",
+    "children" : [ {
+      "name" : "test_begin",
+      "children" : [ {
+        "name" : "TestBegin",
+        "children" : [ {
+          "name" : "test_begin",
+          "uid" : "edbd4b86104d4129",
+          "parentUid" : "3c7444421aa48d967fd98d9d2953d445",
+          "status" : "passed",
+          "time" : {
+            "start" : 1598519911896,
+            "stop" : 1598519911896,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "3c7444421aa48d967fd98d9d2953d445"
+      } ],
+      "uid" : "5b3bf97fa043c3daa3460017b03b53db"
+    }, {
+      "name" : "test_mp_login",
+      "children" : [ {
+        "name" : "TestMpLogin",
+        "children" : [ {
+          "name" : "test_mp_login",
+          "uid" : "6eaabbc72642e018",
+          "parentUid" : "5268a13642b16d5069937046a2d4caa2",
+          "status" : "passed",
+          "time" : {
+            "start" : 1598519919161,
+            "stop" : 1598519920895,
+            "duration" : 1734
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "5268a13642b16d5069937046a2d4caa2"
+      } ],
+      "uid" : "6b60fc946431692c75234dc30a522d97"
+    }, {
+      "name" : "test_mp_pub",
+      "children" : [ {
+        "name" : "TestMpLogin",
+        "children" : [ {
+          "name" : "test_mp_pub[zy小测试{}-小测试123456-软件测试-新增文章成功]",
+          "uid" : "12dfa42a94f75aef",
+          "parentUid" : "db95fe178d465d76ce680ba530cb5560",
+          "status" : "passed",
+          "time" : {
+            "start" : 1598519921401,
+            "stop" : 1598519932427,
+            "duration" : 11026
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "'软件测试'", "'小测试123456'", "'zy小测试{}'", "'新增文章成功'" ]
+        }, {
+          "name" : "test_mp_pub[zy小测试{}-小测试123456-人工智能-新增文章成功]",
+          "uid" : "fc97884555c04c3a",
+          "parentUid" : "db95fe178d465d76ce680ba530cb5560",
+          "status" : "passed",
+          "time" : {
+            "start" : 1598519932967,
+            "stop" : 1598519938638,
+            "duration" : 5671
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "'人工智能'", "'小测试123456'", "'zy小测试{}'", "'新增文章成功'" ]
+        } ],
+        "uid" : "db95fe178d465d76ce680ba530cb5560"
+      } ],
+      "uid" : "69658709e7ee0a9c21392d1700395a37"
+    }, {
+      "name" : "test_end",
+      "children" : [ {
+        "name" : "TestBegin",
+        "children" : [ {
+          "name" : "test_begin",
+          "uid" : "c250a473d776564b",
+          "parentUid" : "684b1bf6b480bcc3599c38c62fb1a22d",
+          "status" : "passed",
+          "time" : {
+            "start" : 1598519938670,
+            "stop" : 1598519944983,
+            "duration" : 6313
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "684b1bf6b480bcc3599c38c62fb1a22d"
+      } ],
+      "uid" : "8c16a6158e4ca1187e1ffb4035fedc9a"
+    } ],
+    "uid" : "1ce536a0a895f6300c151295e589a3fd"
+  } ]
+}

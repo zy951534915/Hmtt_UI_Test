@@ -1,0 +1,14 @@
+{
+  "test_pub_ari_01" : {
+    "ari_title": "zy小测试{}",
+    "ari_contest": "小测试123456",
+    "ari_channel": "软件测试",
+    "expect": "新增文章成功"
+  },
+  "test_pub_ari_02" : {
+    "ari_title": "zy小测试{}",
+    "ari_contest": "小测试123456",
+    "ari_channel": "人工智能",
+    "expect": "新增文章成功"
+  }
+}

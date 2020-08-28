@@ -1,0 +1,90 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "case.mp",
+    "children" : [ {
+      "name" : "test_begin",
+      "children" : [ {
+        "name" : "test_begin",
+        "uid" : "edbd4b86104d4129",
+        "parentUid" : "483a23d8988956c5156815f02b8bb31d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598519911896,
+          "stop" : 1598519911896,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "483a23d8988956c5156815f02b8bb31d"
+    }, {
+      "name" : "test_mp_login",
+      "children" : [ {
+        "name" : "test_mp_login",
+        "uid" : "6eaabbc72642e018",
+        "parentUid" : "e5d8885fd53b21d70f3d09f41aa777fc",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598519919161,
+          "stop" : 1598519920895,
+          "duration" : 1734
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "e5d8885fd53b21d70f3d09f41aa777fc"
+    }, {
+      "name" : "test_mp_pub",
+      "children" : [ {
+        "name" : "test_mp_pub[zy小测试{}-小测试123456-软件测试-新增文章成功]",
+        "uid" : "12dfa42a94f75aef",
+        "parentUid" : "0007666e678a7bf10f745db0574e4926",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598519921401,
+          "stop" : 1598519932427,
+          "duration" : 11026
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'软件测试'", "'小测试123456'", "'zy小测试{}'", "'新增文章成功'" ]
+      }, {
+        "name" : "test_mp_pub[zy小测试{}-小测试123456-人工智能-新增文章成功]",
+        "uid" : "fc97884555c04c3a",
+        "parentUid" : "0007666e678a7bf10f745db0574e4926",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598519932967,
+          "stop" : 1598519938638,
+          "duration" : 5671
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'人工智能'", "'小测试123456'", "'zy小测试{}'", "'新增文章成功'" ]
+      } ],
+      "uid" : "0007666e678a7bf10f745db0574e4926"
+    }, {
+      "name" : "test_end",
+      "children" : [ {
+        "name" : "test_begin",
+        "uid" : "c250a473d776564b",
+        "parentUid" : "7a7eef47d6905cd43ddd52ef4057502b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598519938670,
+          "stop" : 1598519944983,
+          "duration" : 6313
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "7a7eef47d6905cd43ddd52ef4057502b"
+    } ],
+    "uid" : "case.mp"
+  } ]
+}
